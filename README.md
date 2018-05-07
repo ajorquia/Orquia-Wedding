@@ -1,5 +1,4 @@
-Welcome to our wedding homepage. 
-
+![engagement]( wedding/IMG_20180106_101707.jpg)
 ### Event Details
 - Date: July 7, 2018
 - Time: 5 o'clock in the afternoon
