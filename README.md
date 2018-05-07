@@ -1,11 +1,11 @@
 ## Rebekah & Aaron's Wedding
 
-Welcom to our wedding homepage. 
+Welcome to our wedding homepage. 
 
 ### Event Details
-Date: July 7, 2018
-Time: 5 o'clock in the afternoon
-Location: The Engine Room in Monroe, GA
+- Date: July 7, 2018
+- Time: 5 o'clock in the afternoon
+- Location: The Engine Room in Monroe, GA
 
 ### Registries
 - Target
