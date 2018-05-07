@@ -1,13 +1,14 @@
 ![engagement]( assets/placeholder.jpg )
 
 <center>
-# Event Details
+
+## Event Details
 - Date: July 7, 2018
 - Time: 5 o'clock in the afternoon
 - Location: The Engine Room in Monroe, GA
 </center>
 
-# Registries
+## Registries
 - Target
 - Ikea
 - Amazon
