@@ -1,4 +1,4 @@
-## The Wedding of Rebekah Jaramillo and Aaron Orquia
+## Rebekah & Aaron's Wedding
 
 Welcom to our wedding homepage. 
 
