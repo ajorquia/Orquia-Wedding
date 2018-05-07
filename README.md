@@ -1,5 +1,3 @@
-## Rebekah & Aaron's Wedding
-
 Welcome to our wedding homepage. 
 
 ### Event Details
