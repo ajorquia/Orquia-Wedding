@@ -1,4 +1,4 @@
-![engagement](wedding/assets/placeholder.jpg)
+![engagement]( assets/placeholder.jpg )
 ### Event Details
 - Date: July 7, 2018
 - Time: 5 o'clock in the afternoon
