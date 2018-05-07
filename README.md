@@ -8,7 +8,7 @@
 ## Registries
 - Target
 - Ikea
-- [Amazon] (https://www.amazon.com/wedding/share/orquiawedding)
+- [Amazon] (link https://www.amazon.com/wedding/share/orquiawedding)
 
 ### Support or Contact
 
