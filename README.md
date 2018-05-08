@@ -6,7 +6,7 @@
 - Location: The Engine Room in Monroe, GA
 
 ## Registries
-- [Target](https://tgt.gifts/orquiawedding)
+- [Target](https://www.target.com/gift-registry/gift/orquiawedding)
 - [Ikea](https://info.ikea-usa.com/giftregistry/en-us/registry/a2c42121-d1db-4b52-9a0e-ecb2db53733b)
 - [Amazon](https://www.amazon.com/wedding/share/orquiawedding)
 
